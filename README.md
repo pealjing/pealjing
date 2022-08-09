@@ -1,4 +1,4 @@
-# python-tuxi
+# pealjing
 
 
 ![](https://github-readme-stats.vercel.app/api?username=pealjing)
@@ -7,4 +7,4 @@
 :computer:
 :windows:
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pealjing&repo=python-tuxi)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pealjing&repo=pealjing)
